@@ -27,7 +27,7 @@ class Supermarket:
 
     def show_main_menu(self):
         self.clear_screen()
-        print("Welcome to the supermarket!")
+        print("welcome to M1 supermarket!")
         print("Select an option:")
         print("1. Food")
         print("2. Toiletries")
